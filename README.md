@@ -10,7 +10,7 @@ To create an platform where the local store owners can directly get orders from 
 
 ## Tech Stack
 
-**Client:** HTML, Bootstrap, JAVASCRIPT, JAVA
+**Client:** HTML, Bootstrap, JAVASCRIPT, 
 
 **Server:** NodeJS, Django,
 
